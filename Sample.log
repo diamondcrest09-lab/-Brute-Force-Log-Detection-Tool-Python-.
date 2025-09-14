@@ -1,0 +1,6 @@
+Sep 10 12:01:22 server sshd[1001]: Failed password for root from 192.168.1.5 port 51422 ssh2
+Sep 10 12:01:25 server sshd[1001]: Failed password for root from 192.168.1.5 port 51422 ssh2
+Sep 10 12:01:29 server sshd[1001]: Failed password for root from 192.168.1.5 port 51422 ssh2
+Sep 10 12:01:35 server sshd[1001]: Failed password for root from 192.168.1.5 port 51422 ssh2
+Sep 10 12:01:40 server sshd[1001]: Failed password for root from 192.168.1.5 port 51422 ssh2
+Sep 10 12:02:01 server sshd[1002]: Accepted password for user from 10.0.0.4 port 40215 ssh2
