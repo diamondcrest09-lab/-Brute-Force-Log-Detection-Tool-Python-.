@@ -1,0 +1,2 @@
+with open("alerts.txt", "a") as alert_file:
+    alert_file.write(f"{ip} failed {failed_attempts[ip]} times!\n")
